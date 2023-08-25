@@ -1,7 +1,7 @@
   
 @import url(styles/header.css);
 :root{
-    --rosa:#ff4fb0f7; --fundo-preto:#1d0000e4;
+    --rosa:#ff4fb0f7; --fundo-preto:#000000;
     --preto:#000000; --fonte-projeto:"Dosis";
 
 }
