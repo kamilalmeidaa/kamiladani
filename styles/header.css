@@ -33,7 +33,7 @@
     font-weight: 400;
     }
     .texto-tablet{
-    display: block; font-size: 30px; color:white;
+    display: block; font-size: 30px; color:rgb(156, 0, 91);
     margin-top: 3em; padding: 1em;
     }
     .texto-desktop, .texto-mobile{
